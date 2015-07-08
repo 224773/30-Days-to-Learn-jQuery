@@ -2,6 +2,6 @@
 *.iml
 
 node_modules/
-app/bower_components/
+bower_components/
 
 target/
