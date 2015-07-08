@@ -1,0 +1,20 @@
+{
+    "name": "30-Days-to-Learn-jQuery",
+    "version": "1.0.0",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tzoladz/30-Days-to-Learn-jQuery"
+    },
+    "author": "",
+    "license": "ISC",
+   
+    "homepage": "https://github.com/tzoladz/30-Days-to-Learn-jQuery",
+    "devDependencies": {
+        "grunt": "^0.4.5",
+        "grunt-contrib-connect": "^0.10.1",
+        "grunt-contrib-watch": "^0.6.1",
+        "grunt-wiredep": "^2.0.0",
+        "load-grunt-tasks": "^3.1.0"
+    }
+}
